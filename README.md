@@ -23,3 +23,6 @@ I am a web backend engineer and an independent software deve
 - 📫 How to reach me: [Issues](https://github.com/BiliPrk/BiliPrk/issues)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+![My stats](https://github-readme-stats.vercel.app/api?username=BiliPrk&show_icons=true)
