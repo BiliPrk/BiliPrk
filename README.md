@@ -25,8 +25,6 @@ I am a web backend engineer and an independent software deve
 - ⚡ Fun fact: ...
 
 
-🇹🇼🇹🇼🇹🇼
-
 ![My stats](https://github-readme-stats.vercel.app/api?username=BiliPrk&show_icons=true)
 
 ![My Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=BiliPrk)
