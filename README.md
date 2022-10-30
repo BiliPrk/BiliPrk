@@ -7,8 +7,8 @@ I am a web backend engineer and an independent software deve
 | Name | Prk |
 | :---: | :---: |
 | Sex | Male |
-| Country | [People's Republic of China](https://www.gov.cn/) |
-| Citizenship | [United States of America](https://www.whitehouse.gov/) |
+| Country | ![prc_flag](https://raw.githubusercontent.com/BiliPrk/BiliPrk/main/images/flags/People's%20Republic%20of%20China.png)[The People's Republic of China](https://www.gov.cn/) |
+| Citizenship | ![us_flag](https://raw.githubusercontent.com/BiliPrk/BiliPrk/main/images/flags/United%20States%20of%20America.png)[The United States](https://www.whitehouse.gov/) |
 | Birthday | Feb 06, 2000 |
 | Location | [Shanghai City of the PRC](https://www.shanghai.gov.cn/) |
 | Doctrine | Perfectionism |
